@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Definition",""],["NameClass",""]],"fn":[["classify_name",""]]});
